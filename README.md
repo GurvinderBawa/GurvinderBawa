@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, am Gurvinder Bawa 👋
 
-<!--
-**GurvinderBawa/GurvinderBawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Mobile access control
+- 🌱 I’m currently learning Jetpack compose
+- 👯 I’m looking to collaborate on github
+- 🤔 I’m looking for help with github contributions
+- 💬 Ask me about native android development
+- 📫 How to reach me:
+-  [Linkedin -]  (https://www.linkedin.com/in/gurvinder-bawa/)
+-  [Youtube - theWhyDev] (https://www.youtube.com/results?search_query=create+home+screen+githu)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Love playing fps games
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=GurvinderBawa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"/>
+
