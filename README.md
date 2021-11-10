@@ -8,7 +8,7 @@
 - 💬 Ask me about native android development
 - 📫 How to reach me:
 -  [Linkedin -]  (https://www.linkedin.com/in/gurvinder-bawa/)
--  [Youtube - theWhyDev] (https://www.youtube.com/results?search_query=create+home+screen+githu)
+-  [Youtube - theWhyDev] (https://www.youtube.com/channel/UCynJVQIdDPd8AUCUMRp-36w)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love playing fps games
 <br>
